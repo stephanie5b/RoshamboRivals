@@ -164,15 +164,6 @@ def main():
             print("Invalid choice. Please try again!")
             continue
         
-        #while(True):
-            #again = input("\nPlay again? (y/n): ").lower()
-            #if(again == "n"):
-                #print("\nThanks for playing!")
-                #break
-            #elif(again == "y"):
-                #continue
-            #else:
-                ##print("Invalid choice. Playing again!")
-                #continue
+       
 
 main()
